@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world!!! master-2
+=======
+Hello world!!! Branch develop to merge master
+>>>>>>> develop
